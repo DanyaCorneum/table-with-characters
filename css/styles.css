@@ -1,0 +1,30 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(166, 95, 152);
+}
+
+.container {
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  border: 5px solid rgb(105, 25, 105);
+  background-color: rgb(148, 129, 166);
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+
+  text-transform: uppercase;
+  font-weight: 800;
+  color: rgb(105, 25, 105);
+}
